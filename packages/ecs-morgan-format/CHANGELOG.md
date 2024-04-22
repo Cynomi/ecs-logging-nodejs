@@ -1,5 +1,8 @@
 # @elastic/ecs-morgan-format Changelog
 
+## v1.5.2 (UPCOMING)
+- Add redact path
+
 ## v1.5.1
 
 - Fix types -- "index.d.ts" had not been included in the published package.
